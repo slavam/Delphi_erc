@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.11.03 15:30:14.440.pas,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\mainCRUD.pas</Transaction>
+    <Transaction>2009.11.03 15:30:14.456.dfm,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\mainCRUD.dfm</Transaction>
+    <Transaction>2009.11.03 15:30:31.098.bdsproj,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\data_CRUD.bdsproj</Transaction>
+    <Transaction>2009.11.06 09:55:55.914.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\NewPayer.pas</Transaction>
+    <Transaction>2009.11.06 09:55:55.914.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\NewPayer.dfm</Transaction>
+    <Transaction>2009.11.09 14:17:23.772.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\NewBankbook.pas</Transaction>
+    <Transaction>2009.11.09 14:17:23.772.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\NewBankbook.dfm</Transaction>
+    <Transaction>2009.11.09 16:18:59.476.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\ViewInfo.pas</Transaction>
+    <Transaction>2009.11.09 16:18:59.476.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\ViewInfo.dfm</Transaction>
+    <Transaction>2009.11.10 11:24:43.816.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\viewBankbook.pas</Transaction>
+    <Transaction>2009.11.10 11:24:43.816.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\data_CRUD\viewBankbook.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

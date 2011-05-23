@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.02.01 10:05:14.451.pas,C:\Users\MorgachevVM\Documents\Borland Studio Projects\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\utc_code_street_adapter\main.pas</Transaction>
+    <Transaction>2011.02.01 10:05:14.503.dfm,C:\Users\MorgachevVM\Documents\Borland Studio Projects\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\utc_code_street_adapter\main.dfm</Transaction>
+    <Transaction>2011.02.01 10:16:40.192.bdsproj,C:\Users\MorgachevVM\Documents\Borland Studio Projects\Project1.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\utc_code_street_adapter\utc_street_adapter.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

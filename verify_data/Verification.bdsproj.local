@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.12.08 16:45:56.514.pas,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\verify_data.pas</Transaction>
+    <Transaction>2009.12.08 16:45:56.514.dfm,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\verify_data.dfm</Transaction>
+    <Transaction>2009.12.08 16:46:19.500.bdsproj,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Verification.bdsproj</Transaction>
+    <Transaction>2009.12.08 16:50:16.813.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\service.pas</Transaction>
+    <Transaction>2009.12.29 17:22:42.636.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\view_info.pas</Transaction>
+    <Transaction>2009.12.29 17:22:42.636.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\view_info.dfm</Transaction>
+    <Transaction>2009.12.29 17:37:38.342.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\view_info.pas=</Transaction>
+    <Transaction>2009.12.29 17:37:38.342.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\view_info.dfm=</Transaction>
+    <Transaction>2010.02.19 09:51:22.832.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\ViewInfo.pas=</Transaction>
+    <Transaction>2010.02.19 09:51:22.832.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\ViewInfo.dfm=</Transaction>
+    <Transaction>2010.02.22 14:25:05.025.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\ErrorAnalyzer.pas</Transaction>
+    <Transaction>2010.02.22 14:25:05.056.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\ErrorAnalyzer.dfm</Transaction>
+    <Transaction>2010.03.01 10:52:37.917.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\comparing_data.pas</Transaction>
+    <Transaction>2010.03.01 10:52:37.917.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\comparing_data.dfm</Transaction>
+    <Transaction>2010.03.11 10:46:22.771.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\OKCANCL2.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\login.pas</Transaction>
+    <Transaction>2010.03.11 10:46:22.771.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\OKCANCL2.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\login.dfm</Transaction>
+    <Transaction>2010.10.14 12:43:03.310.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\loading.pas</Transaction>
+    <Transaction>2010.10.14 12:43:03.341.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\loading.dfm</Transaction>
+    <Transaction>2010.10.25 10:04:33.309.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\FullInfo.pas=</Transaction>
+    <Transaction>2010.10.25 10:04:33.309.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\FullInfo.dfm=</Transaction>
+    <Transaction>2010.10.25 10:31:50.190.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\service.pas=</Transaction>
+    <Transaction>2011.04.06 15:10:47.350.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\LoadState.pas</Transaction>
+    <Transaction>2011.04.06 15:10:47.370.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\verify_data\LoadState.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.03.15 12:49:13.347.pas,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\viewer.pas</Transaction>
+    <Transaction>2010.03.15 12:49:13.347.dfm,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\viewer.dfm</Transaction>
+    <Transaction>2010.03.15 12:49:40.895.bdsproj,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\viewer_data.bdsproj</Transaction>
+    <Transaction>2010.10.01 12:43:28.065.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\ViewInfo.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\ShortInfo.pas</Transaction>
+    <Transaction>2010.10.01 12:43:28.081.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\ViewInfo.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\ShortInfo.dfm</Transaction>
+    <Transaction>2010.10.11 11:35:13.081.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\FullInfo.pas=</Transaction>
+    <Transaction>2010.10.11 11:35:13.081.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\FullInfo.dfm=</Transaction>
+    <Transaction>2011.03.31 09:42:44.314.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\viewer\DB_service.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

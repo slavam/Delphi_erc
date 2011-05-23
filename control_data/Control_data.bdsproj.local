@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.09.10 12:44:48.713.pas,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\controller.pas</Transaction>
+    <Transaction>2009.09.10 12:44:48.713.dfm,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\controller.dfm</Transaction>
+    <Transaction>2009.09.10 12:45:08.539.bdsproj,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Control_data.bdsproj</Transaction>
+    <Transaction>2009.09.24 10:41:29.643.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\DB_service.pas</Transaction>
+    <Transaction>2009.10.13 12:52:16.395.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\DataView.pas</Transaction>
+    <Transaction>2009.10.13 12:52:16.410.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\DataView.dfm</Transaction>
+    <Transaction>2009.10.16 12:40:45.581.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\FullInfo.pas</Transaction>
+    <Transaction>2009.10.16 12:40:45.596.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\FullInfo.dfm</Transaction>
+    <Transaction>2009.10.22 17:49:42.418.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Absentees.pas</Transaction>
+    <Transaction>2009.10.22 17:49:42.418.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\control_data\Absentees.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

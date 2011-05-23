@@ -1,0 +1,151 @@
+object FormAdapter: TFormAdapter
+  Left = 0
+  Top = 0
+  Caption = 'Adapter'
+  ClientHeight = 436
+  ClientWidth = 632
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 8
+    Top = 8
+    Width = 117
+    Height = 13
+    Caption = #1050#1086#1084#1084#1091#1085#1072#1083#1100#1085#1099#1077' '#1089#1083#1091#1078#1073#1099
+  end
+  object Label2: TLabel
+    Left = 8
+    Top = 61
+    Width = 93
+    Height = 13
+    Caption = #1042#1093#1086#1076#1085#1072#1103' '#1089#1090#1091#1082#1090#1091#1088#1072
+  end
+  object Label3: TLabel
+    Left = 216
+    Top = 61
+    Width = 111
+    Height = 13
+    Caption = #1069#1090#1072#1083#1086#1085#1085#1072#1103' '#1089#1090#1088#1091#1082#1090#1091#1088#1072
+  end
+  object LResultFieldName: TLabel
+    Left = 278
+    Top = 408
+    Width = 12
+    Height = 13
+    Alignment = taRightJustify
+    Caption = ':='
+  end
+  object Label5: TLabel
+    Left = 432
+    Top = 61
+    Width = 129
+    Height = 13
+    Caption = #1055#1088#1072#1074#1080#1083#1072' '#1087#1088#1077#1086#1073#1088#1072#1079#1086#1074#1072#1085#1080#1103
+  end
+  object CBFirms: TComboBox
+    Left = 8
+    Top = 24
+    Width = 393
+    Height = 21
+    ItemHeight = 13
+    TabOrder = 0
+    Text = 'CBFirms'
+    OnSelect = CBFirmsSelect
+  end
+  object LBIn: TListBox
+    Left = 8
+    Top = 80
+    Width = 177
+    Height = 289
+    ItemHeight = 13
+    TabOrder = 1
+    OnDblClick = LBInDblClick
+  end
+  object LBOut: TListBox
+    Left = 216
+    Top = 80
+    Width = 185
+    Height = 289
+    ItemHeight = 13
+    TabOrder = 2
+    OnDblClick = LBOutDblClick
+  end
+  object BOpenInData: TButton
+    Left = 8
+    Top = 403
+    Width = 89
+    Height = 25
+    Caption = #1042#1093#1086#1076#1085#1086#1081' '#1092#1072#1081#1083
+    TabOrder = 3
+    OnClick = BOpenInDataClick
+  end
+  object EValue: TEdit
+    Left = 296
+    Top = 407
+    Width = 121
+    Height = 21
+    TabOrder = 4
+  end
+  object LBRules: TListBox
+    Left = 432
+    Top = 80
+    Width = 185
+    Height = 289
+    ItemHeight = 13
+    TabOrder = 5
+  end
+  object BAddRule: TButton
+    Left = 432
+    Top = 403
+    Width = 75
+    Height = 25
+    Caption = #1044#1086#1073#1072#1074#1080#1090#1100
+    TabOrder = 6
+    OnClick = BAddRuleClick
+  end
+  object BSaveRules: TButton
+    Left = 542
+    Top = 403
+    Width = 75
+    Height = 25
+    Caption = #1057#1086#1093#1088#1072#1085#1080#1090#1100
+    TabOrder = 7
+    OnClick = BSaveRulesClick
+  end
+  object CBRemainPreviousRules: TCheckBox
+    Left = 432
+    Top = 26
+    Width = 192
+    Height = 17
+    Caption = #1057#1086#1093#1088#1072#1085#1103#1090#1100' '#1087#1088#1077#1076#1099#1076#1091#1097#1080#1077' '#1087#1088#1072#1074#1080#1083#1072
+    TabOrder = 8
+  end
+  object ADOQuery1: TADOQuery
+    ConnectionString = 
+      'Provider=SQLOLEDB.1;Password=mwm;Persist Security Info=True;User' +
+      ' ID=slava;Initial Catalog=ERC_CENTER;Data Source=S-050-ERC-TEST'
+    Parameters = <>
+    Left = 128
+    Top = 384
+  end
+  object ODInputData: TOpenDialog
+    DefaultExt = '*.dbf'
+    Left = 8
+    Top = 368
+  end
+  object QInputData: TQuery
+    DatabaseName = 'ERC_DATA'
+    SQL.Strings = (
+      'select * from payers')
+    Left = 208
+    Top = 384
+  end
+end

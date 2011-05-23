@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.12.16 12:54:35.420.pas,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter\main.pas</Transaction>
+    <Transaction>2009.12.16 12:54:35.435.dfm,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter\main.dfm</Transaction>
+    <Transaction>2009.12.16 12:54:59.435.bdsproj,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter\Streets_adapter.bdsproj</Transaction>
+    <Transaction>2009.12.23 11:11:42.954.bdsproj,C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter\Streets_adapter.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter_2\Streets_adapter2.bdsproj</Transaction>
+    <Transaction>2009.12.23 11:12:50.174.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter\main.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter_2\main.pas</Transaction>
+    <Transaction>2009.12.23 11:12:50.174.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter\main.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\streets_adapter_2\main.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.01.12 16:55:31.917.pas,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\Street_upgrade\main.pas</Transaction>
+    <Transaction>2010.01.12 16:55:31.932.dfm,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\Street_upgrade\main.dfm</Transaction>
+    <Transaction>2010.01.12 16:55:54.542.bdsproj,C:\Documents and Settings\MorgachevVM\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\Street_upgrade\upgrade_streets.bdsproj</Transaction>
+    <Transaction>2010.01.18 11:34:05.202.pas,C:\Program Files\Borland\BDS\4.0\Projects\erc\Street_upgrade\Unit2.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\Street_upgrade\newStreet.pas</Transaction>
+    <Transaction>2010.01.18 11:34:05.217.dfm,C:\Program Files\Borland\BDS\4.0\Projects\erc\Street_upgrade\Unit2.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\Street_upgrade\newStreet.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

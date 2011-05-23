@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2011.01.10 11:08:18.709.pas,C:\Users\MorgachevVM\Documents\Borland Studio Projects\Unit1.pas=C:\Program Files\Borland\BDS\4.0\Projects\erc\test\test_pr.pas</Transaction>
+    <Transaction>2011.01.10 11:08:18.738.dfm,C:\Users\MorgachevVM\Documents\Borland Studio Projects\Unit1.dfm=C:\Program Files\Borland\BDS\4.0\Projects\erc\test\test_pr.dfm</Transaction>
+    <Transaction>2011.01.10 11:08:37.706.bdsproj,C:\Users\MorgachevVM\Documents\Borland Studio Projects\Project1.bdsproj=C:\Program Files\Borland\BDS\4.0\Projects\erc\test\test.pas</Transaction>
+  </Transactions>
+</BorlandProject>
